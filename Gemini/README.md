@@ -1,4 +1,4 @@
-made for specifically gemini 3.5 flash  
+**made for specifically gemini 3.5 flash in antigravity (outdated) adding a 3.5 flash-lite soon**  
 
 for: Ct+, external development changable: You can ask it to change languages, for example
 "Hey fox, can you change our coding language to (EXAMPLE) Roblox lua script exploiting/ arbitrary local scripts?"
