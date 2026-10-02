@@ -1,5 +1,1 @@
-working on the 14/06/2026 on all deepseek models.
----
-
-Part of the [Jailbreak Collection](https://github.com/cameleonnbss/LLMs-jailbreak)
-
+so far working on not all deepseek models; deepseek think doesn't work. make sure you disable search before inputting the jailbreak provided.
